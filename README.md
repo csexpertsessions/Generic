@@ -11,7 +11,7 @@ Console.WriteLine(værdi);
 6. For hver værdi må du kun udskrive 1.linie
 7. Lav liste
 
-## Hvad hvis du skal teste for modulus for flere værdier?
+## Hvad hvis du skal teste for modulus mod flere værdier?
 7. Opret en generisk collection over værdier som skal testes for
 8. Denne liste skal indeholde værdien som `int` og den tilhørende tekst som `string` (Key/Value pair...)
 9. I collectionen skal der ud over 3 og 5 også være 7 med teksten `Jazz`
